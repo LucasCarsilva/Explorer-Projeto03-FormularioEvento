@@ -9,9 +9,9 @@ body {
     background: #e5e5e5;
 }
 
-body::before {
-    content: '';
+.dark-layer {
     width: 100%;
+    min-width: 736px;
     height: 368px;
     background: #121214;
     
