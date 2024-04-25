@@ -4,3 +4,4 @@ Utilizando HTML e CSS, desenvolvi um formulário para criação de eventos. Util
 
 ## Representação do projeto:
 
+<img src="./images/FormularioEvento.jpeg" alt="Imagem representando o projeto">
